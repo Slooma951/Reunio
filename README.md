@@ -14,6 +14,22 @@ A React Native and Expo app by **Salem Elatrash** for college and venue front de
 
 Someone hands in a phone or a bag while its owner asks at another desk. Paper notes and scattered messages make it difficult to connect the two. Reunio gives staff one place to record an item and review what an owner remembers.
 
+## Why this matters now
+
+Nearly 19,000 items reached Dublin Airport lost property in 2024; 56% were returned to their owners. That leaves about 44%, over 8,000 items, not returned. The latter figures are approximate calculations from the reported totals. [daa, reported by The Irish Post, December 2024](https://www.irishpost.com/news/hundreds-of-wedding-and-engagement-rings-found-in-airports-lost-property-283322).
+
+Transport for London receives about 6,000 lost items each week, and fewer than one in five is reclaimed. After three months, unclaimed items go to charity or auction. [TfL figures reported by Eastern Eye](https://www.easterneye.biz/transport-for-london-lost-property/). [TfL, lost-property disposal](https://tfl.gov.uk/corporate/transparency/freedom-of-information/foi-request-detail?referenceId=FOI-2488-2425).
+
+Dublin Bus, Irish Rail and Luas keep lost property for a maximum of 30 days. [Transport for Ireland](https://www.transportforireland.ie/support/lost-property/). [Transport for Ireland, holding period](https://www.transportforireland.ie/support/lost-property-information/).
+
+In May 2026, a Dublin college student hub told students it held over 100 items, all recorded on a spreadsheet. Source: the student hub's email to students, supplied by the project author. The college and private email are not published here.
+
+The problem Reunio addresses is often a missed connection: an item is already there, but its owner asks at the wrong desk or on the wrong day. A notebook or spreadsheet holds the record, and the holding period can end before the owner finds it.
+
+Reunio gives each found item a tag number and a record in about 20 seconds; a photo can help fill in what it is. Lost reports are matched against the shelf with reasons shown. Staff check ownership before a return, and the desk can track items logged, items returned and time to return.
+
+No desk has used Reunio yet, so it has no measured return rate. A free pilot is how that would be measured. There is no evidence yet that Reunio raises return rates.
+
 ## The workflow
 
 ```mermaid
