@@ -4,7 +4,15 @@
 
 A React Native and Expo app by **Salem Elatrash** for college and venue front desks. Log found items, review matches to lost reports and record a checked handover.
 
-[Read the project case study](https://slooma951.github.io/portfolio/case-studies/reunio.html) · [Explore my portfolio](https://slooma951.github.io/portfolio/)
+[Try the demo](https://slooma951.github.io/reunio-demo/) · [Read the project case study](https://slooma951.github.io/portfolio/case-studies/reunio.html) · [Explore my portfolio](https://slooma951.github.io/portfolio/)
+
+## Project evidence: start here
+
+| Inspect | What you can review |
+| --- | --- |
+| [Selected TypeScript code](examples/filter.ts) | Apply item status first, accept an exact or partial reference query, then require every significant search word to occur within the same item record. |
+| [Output](evidence/demo-output.json) | A runnable example and its saved JSON result, using synthetic data. |
+| [Methodology and testing results](evidence/README.md) | **8 public-example tests pass**, checked 4 October 2026; provenance, commands and limits included. |
 
 ![Reunio shelf with built-in example records](assets/preview.png)
 
@@ -73,8 +81,8 @@ Losing keys, a phone or a bag can interrupt a student’s day. Clear records and
 
 ## Repository scope
 
-This is a documentation-only portfolio snapshot. It contains the explanation and a sample-data screenshot. Product source, owner records, credentials and implementation history remain private. No licence to the private implementation is granted here.
+This portfolio snapshot contains selected source code, tests, evidence, an explanation and a sample-data screenshot. Product source, owner records, credentials and implementation history remain private. No licence to the private implementation is granted here.
 
 For a project walkthrough, [connect on LinkedIn](https://www.linkedin.com/in/salem-elatrash/).
 
-This public showcase is archived as a portfolio snapshot. Archiving applies to this presentation repository; product development is maintained separately in private.
+This public showcase is archived as a portfolio snapshot with selected code and reproducible evidence. Archiving applies to this presentation repository; product development is maintained separately in private.

@@ -1,0 +1,7 @@
+{
+  "fixture": "invented shelf, no owner data",
+  "query": "blue library",
+  "refs": [
+    "FI-0001"
+  ]
+}
