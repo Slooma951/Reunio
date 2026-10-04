@@ -60,3 +60,5 @@ Losing keys, a phone or a bag can interrupt a student’s day. Clear records and
 This is a documentation-only portfolio snapshot. It contains the explanation and a sample-data screenshot. Product source, owner records, credentials and implementation history remain private. No licence to the private implementation is granted here.
 
 For a project walkthrough, [connect on LinkedIn](https://www.linkedin.com/in/salem-elatrash/).
+
+This public showcase is archived as a portfolio snapshot. Archiving applies to this presentation repository; product development is maintained separately in private.
