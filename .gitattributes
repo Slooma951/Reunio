@@ -1,2 +1,4 @@
-# The selected code is TypeScript. The demo and test harness files should not decide the repository's language label.
+# The selected code is TypeScript. GitHub skips anything under examples/ when it works out a repository's
+# language, so count that file, and leave the demo and test harness files out of the label.
+examples/*.ts linguist-documentation=false
 *.mjs linguist-detectable=false
