@@ -1,0 +1,2 @@
+# The selected code is TypeScript. The demo and test harness files should not decide the repository's language label.
+*.mjs linguist-detectable=false

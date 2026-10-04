@@ -14,9 +14,9 @@ A React Native and Expo app by **Salem Elatrash** for college and venue front de
 | [Output](evidence/demo-output.json) | A runnable example and its saved JSON result, using synthetic data. |
 | [Methodology and testing results](evidence/README.md) | **8 public-example tests pass**, checked 4 October 2026; provenance, commands and limits included. |
 
-![Reunio shelf with built-in example records](assets/preview.png)
+![Reunio demo: the app in a phone frame, showing a shelf of built-in example records](assets/preview.png)
 
-*App screenshot with sample items. Counts are demo records, not adoption or usage figures. No real owner information is shown.*
+*Screenshot of the live demo with sample items. Counts are demo records, not adoption or usage figures. No real owner information is shown.*
 
 ## The problem
 
@@ -85,4 +85,4 @@ This portfolio snapshot contains selected source code, tests, evidence, an expla
 
 For a project walkthrough, [connect on LinkedIn](https://www.linkedin.com/in/salem-elatrash/).
 
-This public showcase is archived as a portfolio snapshot with selected code and reproducible evidence. Archiving applies to this presentation repository; product development is maintained separately in private.
+This is a presentation repository with selected code and reproducible evidence. Product development is maintained separately in private.
